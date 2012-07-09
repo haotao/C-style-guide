@@ -1,4 +1,6 @@
 C-Style-Guide
 ==============
 
-C is the main programing language used at cdnzz.This style guide is a list of dos and don'ts for C programs.
+
+C is the main development language used by cdnzz.
+The goal of this guide is manage to describe in detail the dos and don'ts of writing C code. 
